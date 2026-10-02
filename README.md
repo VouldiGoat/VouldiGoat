@@ -70,7 +70,7 @@ English             ███████░░░  70%
 ## 📫 Contact
 
 - 💻 GitHub: [@VouldiGoat](https://github.com/VouldiGoat)
-- 📧 Email: your-email@example.com
+- 📧 Email: -
 
 ---
 
