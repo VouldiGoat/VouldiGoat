@@ -53,3 +53,30 @@ Dart                ███████░░░  70%
 Git & GitHub        ███████░░░  70%
 Database             ███████░░░  70%
 English              ███████░░░  70%
+
+---
+
+## 🎯 Goals
+
+- 📚 Improve my programming and problem-solving skills
+- 💻 Build more real-world projects
+- 🌐 Become a better web developer
+- 🧠 Learn more about software engineering and computer science
+- 🎓 Continue my education in Software Engineering / Computer Science
+- 🌎 Gain international experience through study and collaboration
+- 🚀 Keep growing and improving as a developer
+
+---
+
+## 📫 Contact
+
+- 💻 GitHub: [@VouldiGoat](https://github.com/VouldiGoat)
+- 📧 Email: your-email@example.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning new things, building projects, and figuring out how things work.
+
+> "Keep learning. Keep building. Keep improving." 🚀
