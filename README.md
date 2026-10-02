@@ -45,18 +45,18 @@ A web-based laundry management system built with Laravel.
 ---
 
 ## 📖 Currently Learning
-
+```text
 PHP & Laravel       █████████░  90%
 HTML & CSS          █████████░  90%
 Dart                ███████░░░  70%
 Git & GitHub        ███████░░░  70%
 Database            ███████░░░  70%
 English             ███████░░░  70%
+```
 
 ---
 
 ## 🎯 Goals
-
 - 📚 Improve my programming and problem-solving skills
 - 💻 Build more real-world projects
 - 🌐 Become a better web developer
